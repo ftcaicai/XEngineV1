@@ -1,0 +1,3 @@
+LIBRARY	"protocol_logic"
+EXPORTS
+	CreateProtocolLogic					@1

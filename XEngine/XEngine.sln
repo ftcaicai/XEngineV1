@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XEngine", "XEngine\XEngine.vcproj", "{6EA35A17-0330-495B-8B43-4967B0F00561}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestClient", "TestClient\TestClient.vcproj", "{C2D34DB6-C8C7-4852-9E60-42D5A419515B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestServer", "TestServer\TestServer.vcproj", "{67900169-3B8C-48C5-BC91-A9776F1F87FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA35A17-0330-495B-8B43-4967B0F00561}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6EA35A17-0330-495B-8B43-4967B0F00561}.Debug|Win32.Build.0 = Debug|Win32
+		{6EA35A17-0330-495B-8B43-4967B0F00561}.Release|Win32.ActiveCfg = Release|Win32
+		{6EA35A17-0330-495B-8B43-4967B0F00561}.Release|Win32.Build.0 = Release|Win32
+		{C2D34DB6-C8C7-4852-9E60-42D5A419515B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2D34DB6-C8C7-4852-9E60-42D5A419515B}.Debug|Win32.Build.0 = Debug|Win32
+		{C2D34DB6-C8C7-4852-9E60-42D5A419515B}.Release|Win32.ActiveCfg = Release|Win32
+		{C2D34DB6-C8C7-4852-9E60-42D5A419515B}.Release|Win32.Build.0 = Release|Win32
+		{67900169-3B8C-48C5-BC91-A9776F1F87FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67900169-3B8C-48C5-BC91-A9776F1F87FC}.Debug|Win32.Build.0 = Debug|Win32
+		{67900169-3B8C-48C5-BC91-A9776F1F87FC}.Release|Win32.ActiveCfg = Release|Win32
+		{67900169-3B8C-48C5-BC91-A9776F1F87FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

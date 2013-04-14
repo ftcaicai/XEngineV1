@@ -1,0 +1,3 @@
+LIBRARY	"XEngine"
+EXPORTS
+	CreateExportHandle			@1
